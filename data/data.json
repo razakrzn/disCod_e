@@ -18,7 +18,8 @@
     "online_count": 78625,
     "members": 234567,
     "Verify": "Verified",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "education"
   },
   {
     "image": "../image/Leonardo-image.jpg",
@@ -28,7 +29,8 @@
     "online_count": 83039,
     "members": 234567,
     "Verify": "Verified",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "entertainment"
   },
   {
     "image": "../image/blox.jpg",
@@ -61,7 +63,7 @@
     "members": 234567,
     "Verify": "not Verified",
     "verified_icon": "../image/approved.png",
-    "category": "english"
+    "category": "education"
   },
   {
     "image": "../image/allstar.jpg",
@@ -148,7 +150,8 @@
     "online_count": 83039,
     "members": 234567,
     "Verify": "Verified & partnered",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "education"
   },
   {
     "image": "../image/era.jpg",
@@ -191,7 +194,8 @@
     "online_count": 83039,
     "members": 234567,
     "Verify": "Verified",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "entertainment"
   },
   {
     "image": "../image/appexLegens.jpg",
@@ -211,7 +215,8 @@
     "online_count": 83039,
     "members": 234567,
     "Verify": "Verified",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "education"
   },
   {
     "image": "../image/WhiteOutSurvival.jpg",
@@ -221,7 +226,8 @@
     "online_count": 83039,
     "members": 234567,
     "Verify": "not Verified",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "entertainment"
   },
   {
     "image": "../image/lookinforgroup.jpeg",
@@ -231,7 +237,8 @@
     "online_count": 83039,
     "members": 234567,
     "Verify": "not Verified",
-    "verified_icon": "../image/approved.png"
+    "verified_icon": "../image/approved.png",
+    "category": "entertainment"
   },
   {
     "image": "../image/animeAdventures.jpg",
